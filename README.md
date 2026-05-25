@@ -1,12 +1,12 @@
 # 💫 About Me
 
-✨ Frontend Developer & UI/UX Enthusiast
-🚀 Building projects with React, Python & AI
-🌱 Currently learning Machine Learning & Full Stack Development
-👩‍💻 Founder of TriveHer – Girls Who Code
-💡 Passionate about creating impactful and user-friendly applications
-🤝 Open to collaborations on Web Development, AI & Community Projects
-⚡ Turning ideas into real-world products, one project at a time
+✨ Frontend Developer & UI/UX Enthusiast<br>
+🚀 Building projects with React, Python & AI<br>
+🌱 Currently learning Machine Learning & Full Stack Development<br>
+👩‍💻 Founder of TriveHer – Girls Who Code<br>
+💡 Passionate about creating impactful and user-friendly applications<br>
+🤝 Open to collaborations on Web Development, AI & Community Projects<br>
+⚡ Turning ideas into real-world products, one project at a time<br>
 
 
 ## 🌐 Socials:
