@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+✨ Frontend Developer & UI/UX Enthusiast
+🚀 Building projects with React, Python & AI
+🌱 Currently learning Machine Learning & Full Stack Development
+👩‍💻 Founder of TriveHer – Girls Who Code
+💡 Passionate about creating impactful and user-friendly applications
+🤝 Open to collaborations on Web Development, AI & Community Projects
+⚡ Turning ideas into real-world products, one project at a time
 
 
 ## 🌐 Socials:
